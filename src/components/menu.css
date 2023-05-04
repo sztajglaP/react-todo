@@ -1,0 +1,43 @@
+.menu {
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    width: 25vw;
+    height: 100vh;
+}
+
+p {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.menu-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 55px;
+    height: 90%;
+    width: 100%;
+    background-color: rgb(99, 99, 99);
+    border-radius: 5px;
+}
+
+.button-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    width: 100%;
+}
+
+.btn {
+    padding: 10px 0;
+    width: 70%;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+}
