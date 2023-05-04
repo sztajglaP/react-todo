@@ -5,7 +5,7 @@ const Menu = () => {
         <div className="menu">
             <div className="menu-container">
 
-                <p>Menu</p>
+                <p className='menu-text'>Menu</p>
 
                 <div className="button-box">
                     <button className="btn">Create task</button>
