@@ -3,13 +3,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px 0;
+    padding: 20px 0 0 0;
     width: 100%;
     text-transform: uppercase;
     color: white;
-    background-color: grey;
+}
+
+.popup-user-info {
+    display: flex;
+    align-items: center;
 }
 
 .header-title {
+    font-weight: lighter;
     letter-spacing: 3px;
 }

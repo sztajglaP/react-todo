@@ -6,7 +6,39 @@
                 {
                     "name": "Piotr",
                     "title": "Odebrac paczkę",
+                    "date": "11.12.2001",
+                    "comments": [
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        },
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        },
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        },
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        }
+                    ],
                     "id": 0
+                },
+                {
+                    "name": "Dawid",
+                    "title": "Costam csda",
+                    "date": "11.12.2001",
+                    "comments": [
+                        
+                    ],
+                    "id": 1
                 }
             ]
         },
@@ -16,6 +48,14 @@
                 {
                     "name": "Piotr",
                     "title": "Odebrac paczkę",
+                    "date": "11.12.2001",
+                    "comments": [
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        }
+                    ],
                     "id": 0
                 }
             ]
@@ -26,6 +66,14 @@
                 {
                     "name": "Piotr",
                     "title": "Odebrac paczkę",
+                    "date": "11.12.2001",
+                    "comments": [
+                        {
+                            "text": "siema",
+                            "date": "11.12.2001",
+                            "id": 0
+                        }
+                    ],
                     "id": 0
                 }
             ]
